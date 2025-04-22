@@ -1,0 +1,34 @@
+[color_theme]
+
+background_color = "131313ff"
+completion_background_color = "222222ff"
+
+symbol_color = "f97580ff"
+keyword_color = "f97580ff"
+control_flow_keyword_color = "f97580ff"
+
+base_type_color = "a092f0ff"
+engine_type_color = "a092f0ff"
+user_type_color = "a092f0ff"
+
+string_color = "ffab70ff"
+
+safe_line_number_color = "f0f0f0bf"
+
+brace_mismatch_color = "4d4d4dff"
+
+function_color = "aa89e9ff"
+
+code_folding_color = "80808080"
+folded_code_region_color = "80808023"
+member_variable_color = "85c8ffff"
+number_color = "85c8ffff"
+
+gdscript/function_definition_color = "aa89e9ff"
+gdscript/global_function_color = "aa89e9ff"
+gdscript/node_path_color = "ffc2a6ff"
+gdscript/node_reference_color = "ffab70ff"
+gdscript/annotation_color = "aa89e9ff"
+
+comment_markers/critical_color = "e04646ff"
+comment_markers/notice_color = "f0d600ff"
