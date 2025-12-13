@@ -4,6 +4,9 @@
 
 # Godot Minimal Theme
 
+> [!NOTE]  
+> This theme has been ported to Godot natively and is the new default theme starting with Godot 4.6. You don't need to install it anymore. All of the future UI improvements will happen in the [Godot repository](https://github.com/godotengine/godot).
+
 ## Installation
 
 1. Download the `minimal_theme.tres` file of the [latest theme version](https://github.com/passivestar/godot-minimal-theme/releases/latest).
